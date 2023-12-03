@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Shivani Khandelwal.
-- 👀 I’m very interested in Machine learning & AI.
-- 🌱 I’m currently learning NLP.
-- 💞️ I’m looking to collaborate on Machine learning projects
-- 📫 How to reach me - you can mail me on shivanikhandelwal487@gmail.com or follow me on instagram https://www.instagram.com/isp_solutions_official/
+- 👀 I’m very interested in Machine Learning & AI.
+- 🌱 I’m currently working on Reinforcement Learning.
+- 💞️ I’m looking to collaborate on Machine Learning Projects
+- 📫 How to reach me - you can mail me at shivanikhandelwal487@gmail.com
 
 <!---
 shivani-2001/shivani-2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
